@@ -1,0 +1,9 @@
+C:\Users\Pawel\Documents\Visual Studio 2017\Projects\LightPriorityQueue\LightPriorityQueue\bin\Debug\netstandard2.0\LightPriorityQueue.deps.json
+C:\Users\Pawel\Documents\Visual Studio 2017\Projects\LightPriorityQueue\LightPriorityQueue\bin\Debug\netstandard2.0\LightPriorityQueue.dll
+C:\Users\Pawel\Documents\Visual Studio 2017\Projects\LightPriorityQueue\LightPriorityQueue\bin\Debug\netstandard2.0\LightPriorityQueue.pdb
+C:\Users\Pawel\Documents\Visual Studio 2017\Projects\LightPriorityQueue\LightPriorityQueue\obj\Debug\netstandard2.0\LightPriorityQueue.csprojAssemblyReference.cache
+C:\Users\Pawel\Documents\Visual Studio 2017\Projects\LightPriorityQueue\LightPriorityQueue\obj\Debug\netstandard2.0\LightPriorityQueue.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\Documents\Visual Studio 2017\Projects\LightPriorityQueue\LightPriorityQueue\obj\Debug\netstandard2.0\LightPriorityQueue.AssemblyInfoInputs.cache
+C:\Users\Pawel\Documents\Visual Studio 2017\Projects\LightPriorityQueue\LightPriorityQueue\obj\Debug\netstandard2.0\LightPriorityQueue.AssemblyInfo.cs
+C:\Users\Pawel\Documents\Visual Studio 2017\Projects\LightPriorityQueue\LightPriorityQueue\obj\Debug\netstandard2.0\LightPriorityQueue.dll
+C:\Users\Pawel\Documents\Visual Studio 2017\Projects\LightPriorityQueue\LightPriorityQueue\obj\Debug\netstandard2.0\LightPriorityQueue.pdb
