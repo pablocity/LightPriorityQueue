@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace LPQ
 {
@@ -33,6 +29,11 @@ namespace LPQ
         public T Dequeue()
         {
             return queue.DeleteRoot();
+        }
+
+        public bool Contains(T element)
+        {
+            return queue.Contains(element);
         }
     }
 }

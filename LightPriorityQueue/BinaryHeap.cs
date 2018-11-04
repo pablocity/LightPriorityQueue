@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace LPQ
 {
@@ -149,6 +147,11 @@ namespace LPQ
         private int RightChild(int parentIndex)
         {
             return LeftChild(parentIndex) + 1;
+        }
+
+        public bool Contains(T element)
+        {
+            return heapList.Contains(element) ? true : false;
         }
 
         public override string ToString()
